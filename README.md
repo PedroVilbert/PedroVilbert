@@ -115,8 +115,6 @@ I enjoy exploring new technologies, developing projects, and turning ideas into 
 
 
 
-## 🐍 Contribution Snake | Animação de Contribuições
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/PedroVilbert/PedroVilbert/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
