@@ -146,9 +146,7 @@ Projeto desenvolvido em Java com funcionalidades relacionadas ao gerenciamento d
 
 </div>
 
----
 
-## 🐍 Contribuições | Contributions
 
 <div align="center">
 
