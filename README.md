@@ -149,6 +149,20 @@ Conjunto de dados preparado a partir de registros históricos da NOAA para estud
 
 [![Repositório](https://img.shields.io/badge/Visualizar%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroVilbert/DataSet-TCC)
 
+
+### 🗺️ Ferramenta de Visualização de Trajetórias de Múltiplos Aspectos | MAT Visualization Tool
+
+Ferramenta interativa desenvolvida para explorar, analisar e visualizar Trajetórias de Múltiplos Aspectos (MATs), permitindo investigar informações espaciais, temporais e outros atributos associados às trajetórias.
+
+O projeto está disponível em dois repositórios, sendo um deles pertencente à biblioteca **Trajectory Map**.
+
+**Repositórios:**
+
+[![Projeto pessoal](https://img.shields.io/badge/Repositório%20do%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroVilbert/FerramentaVisualizacaoMATs)
+
+[![Biblioteca](https://img.shields.io/badge/Repositório%20da%20Biblioteca-483D8B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mat-analysis/trajectory-map)
+
+**Tecnologias:** Python, Dash, Plotly, Pandas e Visualização de Dados.
 ---
 
 <div align="center">
