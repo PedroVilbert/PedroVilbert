@@ -1,0 +1,46 @@
+
+name: Generate Profile Statistics and Trophies
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Generate statistics cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: PedroVilbert
+          cards: overview,languages,contributions,momentum,composition,repositories
+          layout: combined
+          output-dir: assets
+          themes: dark
+          palette: purple
+          language-limit: 8
+          commit: false
+
+      - name: Generate GitHub trophies
+        uses: soulteary/github-profile-trophy-action@v1
+        with:
+          options: 'username=PedroVilbert&theme=tokyonight&column=6&margin-w=10&margin-h=10&no-frame=true'
+          path: assets/trophies.svg
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
+
+      - name: Commit generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "Update profile statistics and trophies"
+          git push
