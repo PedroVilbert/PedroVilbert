@@ -104,41 +104,24 @@ I enjoy exploring new technologies, developing projects, and turning ideas into 
 
 [![Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroVilbert/BibliotecaPSA)
 
----
 
 ## 📊 GitHub Stats | Estatísticas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroVilbert&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVilbert&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-
 <img width="70%" src="https://streak-stats.demolab.com?user=PedroVilbert&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
----
 
-## 🏆 GitHub Trophies | Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PedroVilbert&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies">
-
-</div>
-
----
 
 ## 🐍 Contribution Snake | Animação de Contribuições
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PedroVilbert/PedroVilbert/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%">
+<img src="https://raw.githubusercontent.com/PedroVilbert/PedroVilbert/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
 
 </div>
-
----
 
 ## 📫 Contact | Contato
 
@@ -158,7 +141,7 @@ I enjoy exploring new technologies, developing projects, and turning ideas into 
 
 </div>
 
----
+
 
 <div align="center">
 
