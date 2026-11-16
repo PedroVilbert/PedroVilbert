@@ -67,6 +67,30 @@ Currently, my studies are mainly focused on software development, data analysis,
 
 ---
 
+## 📫 Contato | Contact
+
+<div align="center">
+
+<a href="https://github.com/PedroVilbert">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/pedro-vilbert-6869b3313/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/pedro_vilbert/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:pedrovilbert2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 ## 🛠️ Tecnologias e ferramentas | Technologies & tools
 
 <div align="center">
