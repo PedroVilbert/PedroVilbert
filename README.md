@@ -44,23 +44,37 @@ I enjoy exploring new technologies, developing projects, and turning ideas into 
 
 ---
 
-🛠️ Tech Stack | Tecnologias
+## 🛠️ Tech Stack | Tecnologias
 
 <div align="center">
 
-💻 Programming Languages | Linguagens de Programação
+### 💻 Programming Languages | Linguagens de Programação
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-🌐 Backend & Frontend | Desenvolvimento
+### 🌐 Backend & Frontend | Desenvolvimento
 
-<img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
-🗄️ Databases | Bancos de Dados
+### 🗄️ Databases | Bancos de Dados
 
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white">
 
-🤖 Data Science & AI | Ciência de Dados e IA
+### 🤖 Data Science & AI | Ciência de Dados e IA
 
 <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
@@ -70,6 +84,7 @@ I enjoy exploring new technologies, developing projects, and turning ideas into 
 <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
 
 </div>
+
 ---
 
 ## 🚀 Featured Projects | Projetos em Destaque
@@ -104,22 +119,40 @@ I enjoy exploring new technologies, developing projects, and turning ideas into 
 
 [![Repository](https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroVilbert/BibliotecaPSA)
 
+---
 
 ## 📊 GitHub Stats | Estatísticas
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=PedroVilbert&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<!-- Generated statistics panel: requires the profile-stats GitHub Actions workflow -->
+<img src="./assets/cards.dark.svg" width="100%" alt="GitHub Profile Statistics">
+
+<img src="https://streak-stats.demolab.com?user=PedroVilbert&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak">
 
 </div>
 
+---
 
+## 🏆 GitHub Trophies | Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=PedroVilbert&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies">
+
+</div>
+
+---
+
+## 🐍 Contribution Snake | Animação de Contribuições
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/PedroVilbert/PedroVilbert/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake">
 
 </div>
+
+---
 
 ## 📫 Contact | Contato
 
@@ -137,9 +170,21 @@ I enjoy exploring new technologies, developing projects, and turning ideas into 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
+<a href="mailto:pedrovilbert2005@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/DISCORD-pedro__vilbert-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
 </div>
 
+**Email:** [pedrovilbert2005@gmail.com](mailto:pedrovilbert2005@gmail.com)
 
+**Discord:** `pedro_vilbert`
+
+---
 
 <div align="center">
 
