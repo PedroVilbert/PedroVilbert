@@ -149,14 +149,6 @@ Conjunto de dados preparado a partir de registros históricos da NOAA para estud
 
 [![Repositório](https://img.shields.io/badge/Visualizar%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroVilbert/DataSet-TCC)
 
-### 📚 Biblioteca PSA | PSA Library
-
-Projeto desenvolvido em Java com funcionalidades relacionadas ao gerenciamento de uma biblioteca.
-
-**Tecnologias:** Java.
-
-[![Repositório](https://img.shields.io/badge/Visualizar%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedroVilbert/BibliotecaPSA)
-
 ---
 
 <div align="center">
