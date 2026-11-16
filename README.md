@@ -126,9 +126,9 @@ I enjoy exploring new technologies, developing projects, and turning ideas into 
 <div align="center">
 
 <!-- Generated statistics panel: requires the profile-stats GitHub Actions workflow -->
-<img src="./assets/cards.dark.svg" width="100%" alt="GitHub Profile Statistics">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PedroVilbert&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak">
+<img src="./assets/cards.dark.svg" width="100%" alt="GitHub Statistics">
 
 </div>
 
@@ -138,7 +138,7 @@ I enjoy exploring new technologies, developing projects, and turning ideas into 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PedroVilbert&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies">
+<img src="./assets/trophies.svg" width="100%" alt="GitHub Trophies">
 
 </div>
 
