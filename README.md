@@ -1,181 +1,170 @@
-\<!--   PEDRO VILBERT | PROFILE README   Theme: Pixel Art / Retro Gaming -->
+```html
+<!--
+PEDRO VILBERT | PROFILE README
+Theme: Pixel Art / Retro Gaming
+-->
 
-\<div align="center">
+<div align="center">
 
-\<img width="100%" src="[https://capsule-render.vercel.app/api?type=rect&height=180&color=0:111827,50:312e81,100:1d4ed8&text=PEDRO%20VILBERT&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=14&descAlignY=68&animation=twinkling](https://capsule-render.vercel.app/api?type=rect\&height=180\&color=0:111827,50:312e81,100:1d4ed8\&text=PEDRO%20VILBERT\&fontColor=ffffff\&fontSize=48\&fontAlignY=42\&desc=DEVELOPER%20%7C%20TECH%20ENTHUSIAST\&descSize=14\&descAlignY=68\&animation=twinkling)" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:191970,50:483D8B,100:9370DB&height=120&section=header&text=PEDRO%20VILBERT&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+GITHUB;LOADING+NEW+PROJECTS](https://readme-typing-svg.demolab.com?font=Press+Start+2P\&size=12\&duration=3000\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=600\&lines=HELLO%2C+WORLD!;WELCOME+TO+MY+GITHUB;LOADING+NEW+PROJECTS)..." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=650&lines=HELLO+WORLD;WELCOME+TO+MY+GITHUB;LOADING+NEW+PROJECTS..." />
 
-\<br/>
+<br/>
 
-\<img src="[https://komarev.com/ghpvc/?username=PedroVilbert&style=for-the-badge&color=6d28d9&label=PROFILE+VISITORS](https://komarev.com/ghpvc/?username=PedroVilbert\&style=for-the-badge\&color=6d28d9\&label=PROFILE+VISITORS)" />
+<img src="https://komarev.com/ghpvc/?username=PedroVilbert&style=pixel&color=blueviolet&label=PROFILE+VIEWS" />
 
-\</div>
+</div>
 
 ---
 
-## 👾 About Me | Sobre Mim
+## 👨‍💻 About Me | Sobre Mim
 
-\<img align="right" width="150" src="[https://github.com/PedroVilbert.png](https://github.com/PedroVilbert.png)" />
+🇧🇷 **Português**
 
-**PT-BR 🇧🇷**
+Olá! Sou estudante de **Sistemas de Informação no IFPR – Campus Palmas** e desenvolvedor interessado em tecnologia, programação, inteligência artificial e ciência de dados.
 
-Olá! Sou Pedro Henrique Vilbert, estudante de **Sistemas de Informação no IFPR – Campus Palmas**.
+Gosto de explorar novas tecnologias, desenvolver projetos e transformar ideias em soluções práticas. Atualmente, meus estudos estão voltados principalmente para desenvolvimento de software, análise de dados e aprendizado de máquina.
 
-Sou apaixonado por tecnologia, programação e desenvolvimento de soluções. Tenho interesse especial em Inteligência Artificial, Ciência de Dados, Machine Learning e desenvolvimento de software.
+🇺🇸 **English**
 
-Gosto de transformar ideias em projetos e aprender novas tecnologias através da prática.
+Hello! I'm an **Information Systems student at IFPR – Palmas Campus**, interested in technology, programming, artificial intelligence, and data science.
 
-**EN-US 🇺🇸**
-
-Hello! I'm Pedro Henrique Vilbert, an Information Systems student at IFPR – Palmas Campus, Brazil.
-
-I'm passionate about technology, programming and software development. My main interests include Artificial Intelligence, Data Science, Machine Learning and software engineering.
-
-I enjoy turning ideas into projects and learning new technologies through hands-on experience.
-
-\<br clear="right"/>
+I enjoy exploring new technologies, developing projects, and turning ideas into practical solutions. My current studies focus mainly on software development, data analysis, and machine learning.
 
 ---
 
 ## 🎯 Current Focus | Foco Atual
 
-| 🇧🇷 Português              | 🇺🇸 English            |
-| --------------------------- | ----------------------- |
-| Desenvolvimento de Software | Software Development    |
-| Inteligência Artificial     | Artificial Intelligence |
-| Ciência de Dados            | Data Science            |
-| Aprendizado de Máquina      | Machine Learning        |
-| Análise de Dados            | Data Analysis           |
+| 🇧🇷 Português | 🇺🇸 English |
+|---|---|
+| Desenvolvimento de software | Software Development |
+| Inteligência Artificial | Artificial Intelligence |
+| Ciência de Dados | Data Science |
+| Aprendizado de Máquina | Machine Learning |
+| Visualização de Dados | Data Visualization |
 
 ---
 
-## 🧰 Tech Stack | Tecnologias
+## 🛠️ Tech Stack | Tecnologias
 
-### 💻 Programming Languages
+**Languages | Linguagens**
 
-\<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=python,php,dart,js,java" />
+</p>
 
-\<img src="[https://skillicons.dev/icons?i=python,php,dart,js,java&theme=dark](https://skillicons.dev/icons?i=python,php,dart,js,java\&theme=dark)" />
+**Development & Database | Desenvolvimento e Banco de Dados**
 
-\</div>
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,html,css,mysql,git,github,vscode" />
+</p>
 
-### ⚙️ Development & Database
+**Data Science & AI | Ciência de Dados e IA**
 
-\<div align="center">
-
-\<img src="[https://skillicons.dev/icons?i=flutter,html,css,mysql,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=flutter,html,css,mysql,git,github,vscode\&theme=dark)" />
-
-\</div>
-
-### 📊 Data Science & Artificial Intelligence
-
-\<div align="center">
-
-\<img src="[https://skillicons.dev/icons?i=tensorflow,opencv,sklearn&theme=dark](https://skillicons.dev/icons?i=tensorflow,opencv,sklearn\&theme=dark)" />
-
-\<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)" /> \<img src="[https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)" />
-
-\</div>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,sklearn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects | Projetos em Destaque
 
 ### 🌪️ Hurricane Trajectory Prediction
+**Previsão de Trajetórias de Furacões**
 
-**PT-BR:** Projeto de pesquisa acadêmica voltado à previsão de trajetórias de furacões utilizando séries temporais, dados históricos e redes neurais LSTM.
+🇧🇷 Projeto acadêmico voltado à previsão de trajetórias de furacões utilizando redes neurais LSTM e dados históricos da NOAA. 
 
-**EN-US:** Academic research project focused on hurricane trajectory prediction using time series, historical data and LSTM neural networks.
+🇺🇸 Academic project focused on hurricane trajectory prediction using LSTM neural networks and historical NOAA data.
 
-`Python` `LSTM` `Machine Learning` `NOAA` `Data Science`
+**Technologies:** Python • LSTM • Machine Learning • NOAA • Data Science
 
-\<div align="left"> \<a href="[https://github.com/PedroVilbert/TCCfuracoes](https://github.com/PedroVilbert/TCCfuracoes)"> \<img src="[https://img.shields.io/badge/VIEW_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VIEW_PROJECT-6D28D9?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a> \</div>
+[![Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PedroVilbert/TCCfuracoes)
 
-### 📊 Hurricane Dataset
+### 🌎 Hurricane Dataset
 
-**PT-BR:** Organização e preparação de dados históricos de furacões provenientes do NOAA IBTrACS para utilização em pesquisas e análises.
+🇧🇷 Repositório com dados utilizados no estudo de previsão de trajetórias de furacões.
 
-**EN-US:** Organization and preparation of historical hurricane data from NOAA IBTrACS for research and analysis.
+🇺🇸 Repository containing datasets used in the hurricane trajectory prediction study.
 
-`Python` `Dataset` `NOAA` `Data Analysis`
-
-\<a href="[https://github.com/PedroVilbert/DataSet-TCC](https://github.com/PedroVilbert/DataSet-TCC)">
-\<img src="[https://img.shields.io/badge/VIEW_DATASET-2563EB?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VIEW_DATASET-2563EB?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
+[![Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PedroVilbert/DataSet-TCC)
 
 ### 📚 Biblioteca PSA
 
-**PT-BR:** Projeto acadêmico de desenvolvimento de um sistema de gerenciamento de biblioteca.
+🇧🇷 Projeto de desenvolvimento de um sistema de biblioteca utilizando Java.
 
-**EN-US:** Academic project focused on developing a library management system.
+🇺🇸 Library management system developed using Java.
 
-`Java` `Software Development`
+**Technologies:** Java
 
-\<a href="[https://github.com/PedroVilbert/BibliotecaPSA](https://github.com/PedroVilbert/BibliotecaPSA)">
-\<img src="[https://img.shields.io/badge/VIEW_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/VIEW_PROJECT-6D28D9?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
+[![Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PedroVilbert/BibliotecaPSA)
 
 ---
 
-## 📈 GitHub Statistics | Estatísticas
+## 📊 GitHub Stats | Estatísticas
 
-\<div align="center">
+<div align="center">
 
-\<img height="170" src="[https://github-readme-stats.vercel.app/api?username=PedroVilbert&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=PedroVilbert\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&locale=pt-br)" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroVilbert&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-\<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVilbert&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVilbert\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVilbert&layout=compact&theme=tokyonight&hide_border=true" />
 
-\<br/>
+<img width="70%" src="https://streak-stats.demolab.com?user=PedroVilbert&theme=tokyonight&hide_border=true" />
 
-\<img width="65%" src="[https://streak-stats.demolab.com?user=PedroVilbert&theme=tokyonight&hide_border=true&locale=pt_BR](https://streak-stats.demolab.com?user=PedroVilbert\&theme=tokyonight\&hide_border=true\&locale=pt_BR)" />
-
-\</div>
+</div>
 
 ---
 
-## 🏆 GitHub Achievements | Conquistas
+## 🏆 GitHub Trophies
 
-\<div align="center">
+<div align="center">
 
-\<img width="100%" src="[https://github-profile-trophy.vercel.app/?username=PedroVilbert&theme=discord&no-frame=true&no-bg=true&row=1&column=6](https://github-profile-trophy.vercel.app/?username=PedroVilbert\&theme=discord\&no-frame=true\&no-bg=true\&row=1\&column=6)" />
+<img src="https://github-profile-trophy.vercel.app/?username=PedroVilbert&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 
-\</div>
-
----
-
-## 🐍 Contribution Activity | Atividade
-
-\<div align="center">
-
-\<img src="[https://raw.githubusercontent.com/PedroVilbert/PedroVilbert/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/PedroVilbert/PedroVilbert/output/github-contribution-grid-snake-dark.svg)" alt="GitHub contribution snake animation" width="100%" />
-
-\</div>
+</div>
 
 ---
 
-## 📫 Connect With Me | Entre em Contato
+## 🐍 Contribution Snake | Animação de Contribuições
 
-\<div align="center">
+<div align="center">
 
-\<a href="[https://github.com/PedroVilbert](https://github.com/PedroVilbert)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
+<img src="https://raw.githubusercontent.com/PedroVilbert/PedroVilbert/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
-\<a href="[https://www.linkedin.com/](https://www.linkedin.com/)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" /> \</a>
-
-\<a href="[https://www.instagram.com/](https://www.instagram.com/)"> \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)" /> \</a>
-
-\</div>
+</div>
 
 ---
 
-\<div align="center">
+## 📫 Contact | Contato
 
-### 👾 Thanks for visiting my profile!
+<div align="center">
 
-### Obrigado por visitar meu perfil!
+<a href="https://github.com/PedroVilbert">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:111827&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:312e81,100:111827\&height=100\&section=footer)" />
+<a href="https://www.linkedin.com/in/pedro-vilbert-6869b3313/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-**`01010000 01000101 01000100 01010010 01001111`**
+<a href="https://www.instagram.com/pedro_vilbert/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-\</div>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:483D8B,100:9370DB&height=100&section=footer" width="100%" />
+
+**"Keep learning, keep building, keep evolving."**
+
+`01010000 01000101 01000100 01010010 01001111`
+
+</div>
+```
